@@ -13,9 +13,6 @@ namespace MethodExercise
             int num1 = 4;
             int num2 = 7;
             
-            
-
-            
             Console.Write("What is your name?: ");
             name = Console.ReadLine();
             Console.Write($"Hi {name} what is your favorite color?: ");
@@ -30,9 +27,7 @@ namespace MethodExercise
             Sum(6,4);
             Subtract(4, 3);
             Multiply(12, 3);
-            Divide(36, 12);
-            
-            
+            Divide(36, 12);    
         }
 
 
