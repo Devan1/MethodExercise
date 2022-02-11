@@ -10,8 +10,8 @@ namespace MethodExercise
             string color;
             string animal;
             string band;
-            int num1 = 4;
-            int num2 = 7;
+            //int num1 = 4;
+            //int num2 = 7;
             
             Console.Write("What is your name?: ");
             name = Console.ReadLine();
